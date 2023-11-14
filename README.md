@@ -9,13 +9,13 @@ This project contains exercises related to image recognition using deep learning
 # Exercises
 ## Exercise 1: Identifying Handwritten Numbers
 
-In this exercise, you will explore simple image recognition by classifying handwritten numbers. The goal is to build a model that can recognize and classify numbers based on their images.
+For this exersice we explored simple image recognition by classifying handwritten numbers. The goal was to build a model that can recognize and classify numbers based on their images.
 
 ## Exercise 2: Identifying Objects from Images
-This exercise focuses on identifying objects from images with high variations in position, size, and viewing angle. The dataset used is CIFAR-10, containing color images of objects with 10 categories. You will build a more complex network for this task.
+This exercise focuses on identifying objects from images with high variations in position, size, and viewing angle using Convolutional neural network. The dataset used is CIFAR-10, containing color images of objects with 10 categories.
 
 ## Exercise 3: Low-Level Functions
-Deep learning relies on fundamental operations such as convolution, nonlinear activation, pooling, and normalization. In this exercise, you will implement these low-level functions to gain a deeper understanding of how they work.
+Deep learning relies on fundamental operations such as convolution, nonlinear activation, pooling, and normalization. In this exercise, we implemented these low-level functions to gain a deeper understanding of how they work.
 
 ## Requirements
 - Python 3.7 or higher
